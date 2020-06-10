@@ -1,5 +1,4 @@
 # Netflix-Checker
-Netflix account checker
 
 how to use 
 
