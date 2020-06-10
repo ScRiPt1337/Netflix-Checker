@@ -9,3 +9,4 @@ how to use
 > run net ./net
 
 
+> join us here : https://discord.gg/gkGA44z
