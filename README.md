@@ -1,5 +1,7 @@
 # Netflix-Checker
 
+> this project is still undertesting we have lots of stuff to fix 
+
 how to use 
 
 > run setup.sh or you can install tor manually
