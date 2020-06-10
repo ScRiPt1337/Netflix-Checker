@@ -1,6 +1,6 @@
 # Netflix-Checker
 
-> this project is still undertesting we have lots of stuff to fix 
+> this project is still under testing
 
 how to use 
 
