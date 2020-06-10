@@ -10,4 +10,6 @@ how to use
 
 > run net ./net
 
+> make sure to turn off tor before you login with these account your browser
+
 > join us here : https://discord.gg/gkGA44z
