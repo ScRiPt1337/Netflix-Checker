@@ -12,4 +12,6 @@ how to use
 
 > make sure to turn off tor before you login with these account your browser
 
+> how to use : https://www.youtube.com/watch?v=4-zJ4cP4kAY
+
 > join us here : https://discord.gg/gkGA44z
